@@ -1,7 +1,7 @@
 
 package bagian1.array;
 
-public class Latihan3_Hari {
+public class Hari {
     public static void main(String[] args) {
  
         String[] namaHari = {"Senin", "Selasa", "Rabu", "Kamis", "Jumat"};

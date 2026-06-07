@@ -1,7 +1,7 @@
 
 package bagian1.array;
 
-public class Latihan3_Suhu {
+public class Suhu {
   public static void main(String[] args) {
         
         double[] suhu = {30.5, 28.0, 33.2, 27.8, 31.1, 29.4};

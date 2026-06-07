@@ -1,7 +1,7 @@
 
 package bagian1.array;
 
-public class Latihan3_AngkaGenap {
+public class AngkaGenap {
     public static void main(String[] args) {
         
         int[] angka = {4, 8, 15, 16, 23, 42};
